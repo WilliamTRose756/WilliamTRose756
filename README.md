@@ -1,11 +1,10 @@
-### Hi there 👋, I'm William Rose
+### Hello 👋, I'm William Rose
 
 <!--
 **WilliamTRose756/WilliamTRose756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://img.shields.io/twitter/url?style=social&url=William80713517
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a github user search app
+### 🔭 I’m currently working on a github user search app
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with ...
@@ -14,10 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Reach out to me:
-
 
 ### Skills and stack:
-[![My Skills](https://skills.thijs.gg/icons?i=py,js,react,html,css,git,postgres,nodejs,tailwind)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,js,react,django,html,css,nodejs,git,aws,postgres,bootstrap,tailwind)](https://skills.thijs.gg)
 
 
