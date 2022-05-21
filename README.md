@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h6> I'm a full stack developer <h6/>
+
 
 ### Skills and stack:
 [![My Skills](https://skills.thijs.gg/icons?i=py,js,react,django,html,css,nodejs,git,aws,postgres,bootstrap,tailwind)](https://skills.thijs.gg)
