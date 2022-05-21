@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h5> I'm a full stack developer <h5/>
+<h4> I'm a full stack developer <h4/>
 
 
 ### Skills and stack:
