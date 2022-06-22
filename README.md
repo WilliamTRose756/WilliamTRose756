@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 
 
 ### Skills and stack:
-[![My Skills](https://skills.thijs.gg/icons?i=py,js,react,django,html,css,nodejs,git,aws,postgres,bootstrap,tailwind)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,js,react,django,nodejs,html,css,git,aws,postgres,bootstrap,tailwind)](https://skills.thijs.gg)
   
   <ul>
     <li>Python
     <li>JavaScript
     <li>React
     <li>Django
+    <li>NodeJS
     <li>HTML
     <li>CSS
-    <li>NodeJS
     <li>Git
-    <li>AWS
+    <li>AWS(S3/RDS)
     <li>PostreSQL
     <li>Bootstrap
     <li>Tailwind
