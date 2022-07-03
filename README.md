@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ### Skills and stack:
-[![My Skills](https://skills.thijs.gg/icons?i=py,js,react,django,nodejs,html,css,git,aws,postgres,bootstrap,tailwind)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,py,react,django,nodejs,html,css,git,aws,postgres,bootstrap,tailwind)](https://skills.thijs.gg)
   
   <ul>
     <li>Python
