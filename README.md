@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skills.thijs.gg/icons?i=js,py,react,django,nodejs,html,css,git,aws,postgres,bootstrap,tailwind)](https://skills.thijs.gg)
   
   <ul>
-    <li>Python
     <li>JavaScript
+    <li>Python
     <li>React
     <li>Django
     <li>NodeJS
