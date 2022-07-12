@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ### Skills and stack:
-[![My Skills](https://skills.thijs.gg/icons?i=js,py,react,django,nodejs,html,css,git,aws,postgres,bootstrap,tailwind)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,py,react,django,nodejs,express,html,css,git,aws,postgres,mongodb,bootstrap,tailwind)](https://skills.thijs.gg)
   
   <ul>
     <li>JavaScript
@@ -27,11 +27,13 @@ Here are some ideas to get you started:
     <li>React
     <li>Django
     <li>NodeJS
+    <li>Express
     <li>HTML
     <li>CSS
     <li>Git
     <li>AWS(S3/RDS)
     <li>PostreSQL
+    <li>MongoDB
     <li>Bootstrap
     <li>Tailwind
   <ul/>
