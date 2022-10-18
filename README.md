@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <li>HTML
     <li>CSS
     <li>Git
-    <li>AWS(S3/RDS)
+    <li>AWS
     <li>PostreSQL
     <li>MongoDB
     <li>Bootstrap
